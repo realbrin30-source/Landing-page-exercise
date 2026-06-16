@@ -26,7 +26,7 @@
     justify-content: space-between;
     padding-top: 10px;
     padding-bottom: 10px;
-    min-width: 80vw;
+    min-width: 60vw;
     margin: 0 auto;
     
 }
@@ -59,7 +59,7 @@ a{
     padding-bottom: 50px;
     align-items: center;
     justify-content: space-between;
-    min-width: 80vw;
+    min-width: 60vw;
     margin: 0 auto;
 }
 
@@ -102,7 +102,7 @@ a{
 
 .info{
 
-    min-width: 80vw;
+    min-width: 60vw;
     margin: 0 auto;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -134,4 +134,39 @@ a{
 .cardinfo{
     text-align: center;
 
+}
+
+.quotes{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    
+   
+    
+
+    
+}
+.quotebox{
+
+ display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    max-width: 50vw;
+}
+.quote{
+   
+    font-style: italic;
+    font-weight: 300;
+    font-size: 36px;
+    
+}
+.quoter{
+   
+    align-self: flex-end;
+    font-weight: bold;
+    font-size: 25px;
+    
 }
