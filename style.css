@@ -223,3 +223,12 @@ a{
     
     
 }
+
+.footer{
+    background-color: #1f2937;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: #e5e7eb;
+    font-size: 18px;
+    text-align: center;
+}
