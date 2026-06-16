@@ -170,3 +170,56 @@ a{
     font-size: 25px;
     
 }
+
+.cta{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  
+    
+}
+
+.ctablock{
+   background-color: #3882f6;
+   border-radius: 10px;
+   display: flex;
+   justify-content: space-between;
+   padding-top: 50px;
+   padding-bottom: 50px;
+  padding-left: 150px;
+  padding-right: 150px;
+   
+   column-gap: 50px;
+   
+   
+
+}
+.ctxt{
+    font-size: 25px;
+    font-weight: 500;
+    color: #e5e7eb;
+}
+.secondary{
+    font-size: 18px;
+    font-weight: 100;
+    color: #e5e7eb;
+}
+
+.signup2{
+
+    font-size: 18px;
+
+     border: solid 3px white;
+    border-radius: 20px;
+    color: #e5e7eb;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #3882f6
+    
+    
+}
