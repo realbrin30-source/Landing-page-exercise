@@ -99,3 +99,39 @@ a{
     height: 150px;
 
 }
+
+.info{
+
+    min-width: 80vw;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.info h1{
+
+    text-align: center;
+    color: #1f2937;
+    font-size: 36px;
+    padding-top: 20px;
+    padding: 10px;
+    font-weight: 700;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    column-gap: 30px;
+}
+.card{
+    border: solid 2px #3882f6;
+    border-radius: 10px;
+    height: 150px;
+    width: 150px;
+}
+
+.cardinfo{
+    text-align: center;
+
+}
